@@ -9,7 +9,7 @@ public class Main {
             System.out.println(i);
 
         }
-
+        int b=9;
 
 
     }
